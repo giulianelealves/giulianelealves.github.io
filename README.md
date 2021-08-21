@@ -1,15 +1,8 @@
-# Grupo de estudos
+# Welcome to my home
 
-Esta página conterá todos os recursos e informações que precisarmos para o grupo de estudos.
+This page is my portfolio for software development and technical writing skills. Also, I use this place to share information to learn more about tech writing.
 
-Acesse nosso [Jamboard](https://jamboard.google.com/d/1369tuPuf4cnJOIGjmEL12F2xOyFzGhwXinzSOllynk8/edit?usp=sharing) e compartilhe suas idéias de estudos.
-## Recursos
+Feel free to access all resources available!
 
-### Inglês
-
-Sites interessantes para o aprendizado do inglês:
-
-- [Write and Improve](https://writeandimprove.com/)
-- [Cambridge Assessment](https://www.cambridgeenglish.org/)
-- [BBC Learning](https://www.bbc.co.uk/learningenglish/english/basic-grammar-guide)
-- [USA Learns](https://www.usalearns.org/)
+- [My Technical Writing portifolio](portifolio/portifolio.md)
+- [Technical Writing study group](study-group/notes.md)
