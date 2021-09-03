@@ -11,7 +11,7 @@ O objetivo é trabalharmos com os pilares fundamentais da escrita técnica para 
     - [Active vs. Passive Voice](https://www.grammarly.com/blog/active-vs-passive-voice/)
     - [Writing tips](https://docs.microsoft.com/en-us/style-guide/global-communications/writing-tips)
     - [Technical Writing for Business People - Chapter #9](https://learning.oreilly.com/library/view/technical-writing-for/9781780174464/14_ch09.xhtml#h42) *Você precisa ter acesso ao O'Reilly.
-    [Developing Quality Technical Information - Chapter #6](https://learning.oreilly.com/library/view/developing-quality-technical/9780133119046/ch08.html#ch08lev1sec1) *Você precisa ter acesso ao O'Reilly.
+    - [Developing Quality Technical Information - Chapter #6](https://learning.oreilly.com/library/view/developing-quality-technical/9780133119046/ch08.html#ch08lev1sec1) *Você precisa ter acesso ao O'Reilly.
 2. Em análise
 
 Aproveite para compartilhar seus aprendizados no nosso grupo e quem sabe até publicar sobre em seu portfolio!

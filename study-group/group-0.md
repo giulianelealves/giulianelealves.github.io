@@ -8,7 +8,7 @@ Tópicos abordados:
 
 **Processo do grupo de estudo**
 
-- A cada 15 dias um novo tópico será estudado e discutido através do grupo privado. Serão 2 tópicos por mÊs dependendo a complexidade de cada um. Aproveite para deixar sua sugestão de tópicos no nosso [Jamboard](https://jamboard.google.com/d/1369tuPuf4cnJOIGjmEL12F2xOyFzGhwXinzSOllynk8/edit?usp=sharing).
+- A cada 15 dias um novo tópico será estudado e discutido através do grupo privado. Serão 2 tópicos por mês dependendo a complexidade de cada um. Aproveite para deixar sua sugestão de tópicos no nosso [Jamboard](https://jamboard.google.com/d/1369tuPuf4cnJOIGjmEL12F2xOyFzGhwXinzSOllynk8/edit?usp=sharing).
     - A partir do momento em que os recursos do tópico do mês são compartilhados no grupo privado, os dias começam a contar.
     - Fique a vontade para compartilhar sua opinião e seus aprendizados sobre o tópico nesse período.
 - Uma vez no mês nos reuniremos para discutir os tópicos propostos. Serão 2 tópicos discutidos nesse dia.
