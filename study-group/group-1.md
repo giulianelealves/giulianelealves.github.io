@@ -1,19 +1,19 @@
 # Encontro #1 - Technical Writing Fundamentals
 
-Para esses primeiros encontros usaremos o conteúdo disponibilizado pelo Google em seu curso [Technical Writing One](https://developers.google.com/tech-wriing/one).
-
 O objetivo é trabalharmos com os pilares fundamentais da escrita técnica para profissionais (ou não) da área de engenharia de sotware (e relacionados).
 
-**Data do encontro #1:** será postado em breve com base na agenda dos participantes.
+**Data do encontro #1:** 07 de Outubro de 2021 (data sujeita a alteração)
 
-Assuntos que poderão ser discutidos:
+**Tópicos e recursos**
 
-- [Just enough grammar](https://developers.google.com/tech-writing/one/just-enough-grammar)
-    - Extra:[Adjective Order in English](https://www.grammarly.com/blog/adjective-order/)
-- [Words](https://developers.google.com/tech-writing/one/words)
-- [Active voice vs. passive voice](https://developers.google.com/tech-writing/one/active-voice)
-    - Extra: [Active vs. Passive Voice](https://www.grammarly.com/blog/active-vs-passive-voice/)
+1. Ative voice (Voz ativa)
+    - [Active voice vs. passive voice](https://developers.google.com/tech-writing/one/active-voice)
+    - [Active vs. Passive Voice](https://www.grammarly.com/blog/active-vs-passive-voice/)
+    - [Writing tips](https://docs.microsoft.com/en-us/style-guide/global-communications/writing-tips)
+    - [Technical Writing for Business People - Chapter #9](https://learning.oreilly.com/library/view/technical-writing-for/9781780174464/14_ch09.xhtml#h42) *Você precisa ter acesso ao O'Reilly.
+    [Developing Quality Technical Information - Chapter #6](https://learning.oreilly.com/library/view/developing-quality-technical/9780133119046/ch08.html#ch08lev1sec1) *Você precisa ter acesso ao O'Reilly.
+2. Em análise
 
-Apesar das instruções estarem um português, vamos priorizar o aprendizado em inglês.
+Aproveite para compartilhar seus aprendizados no nosso grupo e quem sabe até publicar sobre em seu portfolio!
 
 I hope you enjoy it!
