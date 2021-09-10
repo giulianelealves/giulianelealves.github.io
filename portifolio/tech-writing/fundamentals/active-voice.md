@@ -16,9 +16,9 @@ In the active voice, an actor performs an action. The grammatical subject of the
 
 In this sentence, you have:
 
-The actor: **The software**
-The verb: **requires**
-The target: **the .Net Framework to run**
+The actor: **The software**  
+The verb: **requires**  
+The target: **the .Net Framework to run**  
 
 ## Passive voice
 
@@ -38,9 +38,9 @@ The use of passive voice is not recommended. Here are some motives to avoid pass
 
 In this sentence, you have:
 
-The target: **The .Net Framework**
-The verb (past participle): **is required**
-The actor: **to run the software**
+The target: **The .Net Framework**  
+The verb (past participle): **is required**  
+The actor: **to run the software**  
 
 You also can have a scenario where using the passive voice you can't know who are the actor. Who performs the action. See the example below:
 

@@ -1,4 +1,6 @@
-# Content types
+# What are the content types in technical writing
+
+> This sections is under construction.
 
 * UI text
 Documentation
