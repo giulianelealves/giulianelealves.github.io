@@ -4,5 +4,5 @@ This page is my portfolio for software development and technical writing skills.
 
 Feel free to access all resources available!
 
-- [My portifolio](portifolio/tech-writing.md.md)
+- [My portifolio](portifolio/tech-writing.md)
 - [Technical Writing study group](study-group/notes.md)
